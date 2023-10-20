@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T15:28:41.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="wiZnlGiJ7f1UrJTqdnM_" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T15:31:54.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="t8daclnh0eb_hn660qMm" version="22.0.6" type="github">
   <diagram id="cMvH7D7KYRIxB7PXTavR" name="Página-2">
     <mxGraphModel dx="13839" dy="13641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,7 +439,7 @@
             <mxRectangle width="56" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zqST7HXrUJRvRNxuswjg-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-17">
+        <mxCell id="zqST7HXrUJRvRNxuswjg-19" value="Fecha" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-17">
           <mxGeometry x="56" width="194" height="30" as="geometry">
             <mxRectangle width="194" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -447,12 +447,12 @@
         <mxCell id="zqST7HXrUJRvRNxuswjg-20" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-13">
           <mxGeometry y="90" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zqST7HXrUJRvRNxuswjg-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-20">
+        <mxCell id="zqST7HXrUJRvRNxuswjg-21" value="FK" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-20">
           <mxGeometry width="56" height="30" as="geometry">
             <mxRectangle width="56" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zqST7HXrUJRvRNxuswjg-22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-20">
+        <mxCell id="zqST7HXrUJRvRNxuswjg-22" value="DetalleFacturación" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-20">
           <mxGeometry x="56" width="194" height="30" as="geometry">
             <mxRectangle width="194" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -608,7 +608,7 @@
             <mxRectangle width="56" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zqST7HXrUJRvRNxuswjg-157" value="Cliente" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-155">
+        <mxCell id="zqST7HXrUJRvRNxuswjg-157" value="Monto pagado" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-155">
           <mxGeometry x="56" width="194" height="30" as="geometry">
             <mxRectangle width="194" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -621,7 +621,7 @@
             <mxRectangle width="56" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zqST7HXrUJRvRNxuswjg-160" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-158">
+        <mxCell id="zqST7HXrUJRvRNxuswjg-160" value="Factura" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="zqST7HXrUJRvRNxuswjg-158">
           <mxGeometry x="56" width="194" height="30" as="geometry">
             <mxRectangle width="194" height="30" as="alternateBounds" />
           </mxGeometry>
